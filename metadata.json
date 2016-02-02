@@ -7,9 +7,14 @@
   "source": "https://github.com/skynetsolutions/puppet-sitefacts.git",
   "project_page": "https://github.com/skynetsolutions/puppet-sitefacts",
   "issues_url": "https://github.com/skynetsolutions/puppet-sitefacts/issues",
+  "tags": ["facter", "fact"],
+  "operatingsystem_support": [
+    {
+    "operatingsystem":"RedHat"
+    }
+  ],
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ],
-  "data_provider": null
 }
 
