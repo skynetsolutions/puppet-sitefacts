@@ -1,6 +1,6 @@
 {
   "name": "skynetsolutions-sitefacts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "skynetsolutions",
   "summary": "Fact files to assist with the implementation of a site/role/profile puppet strategy.",
   "license": "Apache-2.0",
