@@ -1,3 +1,4 @@
+#Checks if computer is part of a windows domain.
 Facter.add("memberwindomain") do
   confine :kernel => :windows
   setcode do
